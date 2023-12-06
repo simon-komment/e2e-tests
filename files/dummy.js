@@ -7,3 +7,4 @@
 * to add it to the result of adding `a` to itself.
 */
 let sum = (a, b) => a + b;
+
