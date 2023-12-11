@@ -6,3 +6,4 @@ const greeting: string = greet("John");
 console.log(greeting);
 
 
+
