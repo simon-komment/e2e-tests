@@ -5,3 +5,4 @@ function greet(name: string): string {
 const greeting: string = greet("John");
 console.log(greeting);
 
+
