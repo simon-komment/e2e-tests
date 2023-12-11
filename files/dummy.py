@@ -1,4 +1,8 @@
 def dummy():
+    """
+    Nothing.
+
+    """
     pass
 
 
